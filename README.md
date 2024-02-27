@@ -3,6 +3,9 @@
 ## Descrição:
 Este é um diagrama de uma empresa de logística desenvolvido como atividade em sala de aula.
 
+## Detalhes Técnicos:
+O Diagrama foi feito utilizando a plataforma `ERDPLUS`.
+
 ## Visualização do Diagrama:
 - Abra o arquivo `diagrama_logistica.png` para visualizar o diagrama de processos.
 
