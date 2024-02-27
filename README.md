@@ -3,8 +3,7 @@
 ## Descrição
 Um Diagrama de uma empresa de logistica desenvolvido como atividade em sala de aula.
 
-## Como Utilizar
-Visualização do Diagrama:
+## Visualização do Diagrama:
 - Abra o arquivo diagrama_logistica.png para visualizar o diagrama de processos.
 
 ## Créditos
