@@ -3,3 +3,7 @@
 ## Descrição
 Um Diagrama de uma empresa de logistica desenvolvido como atividade em sala de aula.
 
+markdown
+## Créditos
+- Ícones por Font Awesome (link)
+
