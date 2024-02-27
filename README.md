@@ -1,18 +1,18 @@
-# Atividade Estrutura de Dados Marcelo Moniuer 
+# Atividade Estrutura de Dados - Marcelo Moniuer 
 
 ## Descrição
-Um Diagrama de uma empresa de logistica desenvolvido como atividade em sala de aula.
+Este é um diagrama de uma empresa de logística desenvolvido como atividade em sala de aula.
 
 ## Visualização do Diagrama:
-- Abra o arquivo diagrama_logistica.png para visualizar o diagrama de processos.
-  
-## Relaçoes:
-Pedido n - 1 Clientes // Um cliente pode criar varios pedidos, porem não tem como um pedido ter varios clientes.
-Pedido n - 1 Veiculo // Um pedido sempre vem por inteiro, sempre todos os produtos inclusos no mesmo pedido veem juntos. 
-Pedido 1 - n Produto // Um pedido pode conter varios produtos, porem não tem como varios pedidos conter o mesmo produto.
-Produto n - n Armazem // Varios produtos podem ser armazenados em um armazem.
-Operario 1 - n Pedidos // Um Operario é responsavel pelo transporte de varios pedidos, não é necessario varios Operarios serem responsavel pelo mesmo pedido.
-Veiculo n - n Transportadora // A transportadora pode possuir varios Veiculos a sua disposição.
+- Abra o arquivo `diagrama_logistica.png` para visualizar o diagrama de processos.
+
+## Relações:
+- **Pedido n - 1 Clientes:** Um cliente pode criar vários pedidos, porém um pedido está associado a apenas um cliente.
+- **Pedido n - 1 Veiculo:** Um pedido é atendido por um veículo completo; todos os produtos de um pedido são entregues juntos.
+- **Pedido 1 - n Produto:** Um pedido pode conter vários produtos, mas um produto não pode pertencer a vários pedidos.
+- **Produto 1 - n Armazem:** Cada produto pertence a um único armazém, enquanto um armazém pode armazenar vários produtos.
+- **Operario 1 - n Pedidos:** Um operário é responsável pelo transporte de vários pedidos, sem a necessidade de vários operários para um mesmo pedido.
+- **Veiculo n - n Transportadora:** A transportadora pode possuir vários veículos à sua disposição.
 
 ## Créditos:
 - Kevin Emanoel
