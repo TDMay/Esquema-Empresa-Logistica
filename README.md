@@ -1,6 +1,6 @@
 # Atividade Estrutura de Dados - Marcelo Moniuer 
 
-## Descrição
+## Descrição:
 Este é um diagrama de uma empresa de logística desenvolvido como atividade em sala de aula.
 
 ## Visualização do Diagrama:
